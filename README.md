@@ -37,7 +37,7 @@ exit
 ``` Vyos
 configure
 
-set interfaces ethernet eth0 address101.96.128.34/30
+set interfaces ethernet eth0 address 101.96.128.34/30
 set interfaces ethernet eth0 address 192.168.2.1/24
 
 set nat source rule 100 source address '192.168.2.0/24'
