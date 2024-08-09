@@ -1,4 +1,4 @@
-![network_map drawio](https://github.com/user-attachments/assets/2520d20b-a085-4671-bb29-246cf87a1ab0)
+![map](https://github.com/user-attachments/assets/c4ad3292-332c-4939-98c5-3b92b022412f)
 
 # Chinese Network
 
